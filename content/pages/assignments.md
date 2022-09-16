@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course assignments and guidelines
+  for bibliographic referencing and citations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

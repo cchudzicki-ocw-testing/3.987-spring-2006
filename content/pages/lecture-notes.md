@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents a set of vocabulary sheets that outline key terms
+  for the course, concepts and characters covered in lectures, and assorted handouts.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

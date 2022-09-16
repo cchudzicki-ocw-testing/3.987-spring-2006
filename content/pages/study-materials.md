@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an review materials for a quiz on osteology and
+  a midterm study guide.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
